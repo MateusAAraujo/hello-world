@@ -1,2 +1,4 @@
 # hello-world
-Primeiro repositório!
+Olá!
+Sou Mateus Alberto, estou conhecendo a plataforma.
+Este é o meu primeiro contato.
